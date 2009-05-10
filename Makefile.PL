@@ -6,5 +6,6 @@ WriteMakefile(
     'VERSION_FROM'	=> 'Canonicalize.pm', 
     'PREREQ_PM'		=> {
         'Chemistry::Mol' => '0.24',
+        'Math::BigInt' => '',
     },
 );
